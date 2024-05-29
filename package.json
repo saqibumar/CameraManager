@@ -1,0 +1,21 @@
+{
+  "name": "6cricket-cam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Saqib Umar",
+  "license": "ISC",
+  "description": "6Crickets cameras",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.12.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
